@@ -1,6 +1,6 @@
 # zsh configuration
 
-####Theme
+#### Theme
 * [OneHalfDark](https://github.com/sonph/onehalf) 
 
 #### Copy theme:
