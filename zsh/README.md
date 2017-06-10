@@ -1,5 +1,8 @@
 # zsh configuration
 
+####Theme
+* [OneHalfDark](https://github.com/sonph/onehalf) 
+
 #### Copy theme:
 * `cp lambda-spaceship.zsh-theme ~/.oh-my-zsh/custom/themes/spaceship.zsh-theme`
 
