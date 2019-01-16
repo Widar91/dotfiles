@@ -51,7 +51,7 @@ ZSH_THEME="lambda-spaceship"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git colorize colored-man-pages encode64 history-substring-search)
+plugins=(git colored-man-pages encode64 history-substring-search docker)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -84,7 +84,7 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="vim ~/.zshrc"
 alias zshsource="source ~/.zshrc"
 alias ohmyzsh="vim ~/.oh-my-zsh"
-alias cat="colorize"
+alias cat="pygmentize -g"
 alias la="exa -lha --sort=Name --group-directories-first"
 alias l="exa -1a --sort=Name --group-directories-first"
 
