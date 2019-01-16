@@ -39147,24 +39147,31 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
+	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
+	<dict>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>3969 110 445 103 2560 0 1920 1178 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>650 590 620 392 0 0 1920 1178 </string>
+	<string>650 499 620 392 0 0 1920 1058 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>478 565 796 473 0 0 1920 1178 </string>
+	<string>338 670 796 486 0 0 1920 1178 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>301 804 612 477 0 0 2560 1418 </string>
+	<string>1285 12 1268 1393 0 0 2560 1418 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>965 6 948 579 0 0 1920 1178 </string>
+	<string>7 12 1268 1393 0 0 2560 1418 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>965 592 948 579 0 0 1920 1178 </string>
+	<string>966 7 946 577 0 0 1920 1178 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>3525 6 948 579 2560 0 1920 1178 </string>
+	<string>966 11 946 1155 0 0 1920 1178 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
-	<string>163 351 952 581 0 0 1920 1178 </string>
+	<string>962 11 953 1155 0 0 1920 1178 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
-	<string>190 495 178 86 0 0 1920 1178 </string>
+	<string>6 10 1907 1157 0 0 1920 1178 </string>
+	<key>NSWindow Frame iTerm Window 6</key>
+	<string>2567 10 948 1157 2560 0 1920 1178 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -39924,7 +39931,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.2086710818527919</real>
+			<real>0.0</real>
 			<key>Unlimited Scrollback</key>
 			<true/>
 			<key>Use Bold Font</key>
@@ -40048,7 +40055,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-04-10T13:26:32Z</date>
+	<date>2019-01-10T22:10:57Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>Secure Input</key>
@@ -40070,7 +40077,7 @@
 	<key>TerminalVMargin</key>
 	<integer>25</integer>
 	<key>UseBorder</key>
-	<true/>
+	<false/>
 	<key>WindowNumber</key>
 	<true/>
 	<key>WordCharacters</key>
@@ -40082,6 +40089,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.1.5</string>
+	<string>3.2.6</string>
 </dict>
 </plist>
